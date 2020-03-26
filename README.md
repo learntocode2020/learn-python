@@ -16,6 +16,14 @@ syntax of [standard Python statements and constructions](#table-of-contents). Al
 code is full of assertions you'll be able to see expected functions/statements output right away
 without launching them.
 
+## Recommended Website to Learn Coding for The Beginner
+
+[Treehouse](http://everydaywinner.site/treehouse-python/) is an online technology school that offers beginner to advanced courses in web design, web development, mobile development and game development taught by a team of expert teachers. Its courses are aimed at beginners looking to learn coding skills and embark on a career in the tech industry.
+
+In May 2016, [Treehouse](http://everydaywinner.site/treehouse-python/) launched the [Techdegree program](http://everydaywinner.site/treehouse-python/), a comprehensive learning program focused on helping people learn the skills they need to start a tech career. Through earning a [Techdegree certification](http://everydaywinner.site/treehouse-python/), a student will challenge themselves, deepen their skills, and prove their knowledge to potential employers. All in 6-12 months, on their own schedule.
+
+[Treehouse](http://everydaywinner.site/treehouse-python/) believes that understanding, communicating with and controlling technology is a fundamental skill that everyone should have the opportunity to learn. Through learning with [Treehouse](http://everydaywinner.site/treehouse-python/), each student is given the opportunity to learn the valuable skills they need — whether they have existing, little or no previous experience — to confidently take control of their future.
+
 ## How to Use This Repository
 
 Each Python script in this repository has the following structure:
